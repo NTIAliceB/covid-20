@@ -1,5 +1,5 @@
 body {
-    background-color: chocolate;
+    background-color: rgb(245, 242, 239);
     margin: 1vh;
     margin-left: 2vh;
 }
@@ -7,7 +7,7 @@ body {
 #wrapper {
     display:grid;
     height: 200vh;
-    width: 150vh;
+    width: 170vh;
 
   }
 
